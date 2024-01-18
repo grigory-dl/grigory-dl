@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grigory-dl
 - 👀 I’m interested in development
 - 🌱 I’m currently learning php
-- 📫 How to reach me Telegram: grigory_dl
+- 📫 How to reach me: Telegram grigory_dl
 - ⚡ Fun fact: very lazy
 
 <!---
